@@ -7,6 +7,7 @@ Created on Thu Feb 28 15:04:30 2019
 #PHASE 1
 # MyHealthcare is a wearable device that generates n vital sign records of a person
 # we need to import some modules first
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import random as rand
